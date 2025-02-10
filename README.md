@@ -28,7 +28,7 @@ A machine learning-based book recommender system using:
    ```
 3. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run ml_app.py
    ```
 
 ---
