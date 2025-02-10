@@ -20,10 +20,11 @@ A machine learning-based book recommender system using:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Stonky-Boi/GDSC-Inductions-2025.git
+   cd GDSC-Inductions-2025
    ```
 2. Navigate to the project directory and install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy scikit-learn streamlit
    ```
 3. Run the Streamlit app:
    ```bash
