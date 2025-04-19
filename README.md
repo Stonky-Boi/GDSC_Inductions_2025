@@ -19,8 +19,8 @@ A machine learning-based book recommender system using:
 #### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Stonky-Boi/GDSC-Inductions-2025.git
-   cd GDSC-Inductions-2025
+   git clone https://github.com/Stonky-Boi/GDSC_Inductions_2025.git
+   cd GDSC_Inductions_2025
    ```
 2. Navigate to the project directory and install dependencies:
    ```bash
